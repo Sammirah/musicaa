@@ -1,0 +1,58 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+    background-color: #FAFAD2;
+}
+
+.note {
+    font-size: 15px;
+    color: black;
+}
+
+body {
+    background-size: cover;
+    background-image: url("girassóis.jpg");
+}
+
+.div_speed {
+    float: left;
+}
+
+.div_speed_img {
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed {
+    font-size: 23px;
+    margin: 15px;
+}
+
+.div_volume {
+    float: right;
+}
+
+.div_volume_img {
+    width: 200px;
+    border-radius: 100px;
+}
+
+#volume {
+    font-size: 23px;
+    margin: 15px;
+}
+
+#giragirasol {
+    width: 200px;
+    font-size: 25px;
+    background-color: #FAFAD2;
+    border-radius: 10px;
+    padding: 3px;
+    margin: 10px;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+}
